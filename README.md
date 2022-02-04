@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to a mad-mans unorganized thoughts. 
 
 <!--
 **ogNFT/ogNFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
